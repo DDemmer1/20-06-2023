@@ -9,7 +9,7 @@ SS23 - Rekursion 2
 
 ------------------
 
-- Überprüft ob k kleiner ist als 0
+- Überprüft ob k größer ist als 0
   - falls ja:
       - gebt als Rückgabewert die Summe aus k und dem Methodenaufruf mit dem Argument k - 1 an
   - falls nein
