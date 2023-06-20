@@ -3,21 +3,7 @@ SS23 - Rekursion 2
 
 ### 📝 Aufgabe:
 
-Implementiert eine Methode die Rekursiv ab einem bestimmten Verzeichnis über eure Festplatte läuft und alle Dateinamen ausgibt. Auch Dateien die verschachtelt in Unterordnern liegen sollen ausgegeben werden.
 
-- Erzeugt dafür eine neue Klasse ```FileUtil```
-- Die Methode soll ```printDirectory(File dir)``` heißen. ```File dir``` ist dabei das Startverzeichnis.
-- Ihr werdet folgende Methoden aus der ```File``` Klasse brauchen:
-  - ```getCanonicalPath()```
-  - ```listFiles()``` 
-  - ```isDirectory()```
-
-
--------------------------
-
-- Ändert die Methode zu einer Such-Methode ab.
-- Die Methode soll jetzt eine Datei suchen können und gibt dann das genaue Verzeichnis zurück in dem dieses File liegt
-- ```searchDirectory(File dir, String filename)```
 
 
 
