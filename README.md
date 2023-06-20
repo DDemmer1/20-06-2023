@@ -3,7 +3,7 @@ SS23 - Rekursion 2
 
 ### 📝 Aufgabe:
 
-- Schreibt eine rekursive Methode die alle Zahlen zwischen 0 und einem ```int `k```` addiert.
+- Schreibt eine rekursive Methode die alle Zahlen zwischen 0 und einem ```int k``` addiert.
 - ```public int sum(int k)```
 - Der Rückgabewert soll die Summe der Zahlen zwischen 0 und k sein
 
