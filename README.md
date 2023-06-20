@@ -7,6 +7,14 @@ SS23 - Rekursion 2
 - ```public int sum(int k)```
 - Der Rückgabewert soll die Summe der Zahlen zwischen 0 und k sein
 
+------------------
+
+- Überprüft ob k größer ist als 0
+  - falls ja:
+      - gebt als Rückgabewert die Summe aus k und dem Methodenaufruf mit dem Argument k - 1 an
+  - falls nein
+     - gebt 0 zurück
+
 
 
 ### ℹ️ Resourcen:
